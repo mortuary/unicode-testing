@@ -5,7 +5,7 @@ Original | Identical
 a | а
 c | с
 d | ԁ
-e | е
+e | e
 i | і
 j | j
 l | ӏ
