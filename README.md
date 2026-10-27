@@ -9,7 +9,7 @@ e | e
 i | і
 j | j
 l | ӏ
-n | ո
+n | n
 o | o
 x | x
 x | x
