@@ -2,7 +2,7 @@ Unicode Character
 
 Original | Identical
 --------------- | -------------
-a | а
+a | a
 c | с
 d | d
 e | e
