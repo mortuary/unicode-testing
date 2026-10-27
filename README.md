@@ -4,7 +4,7 @@ Original | Identical
 --------------- | -------------
 a | а
 c | с
-d | ԁ
+d | d
 e | e
 i | і
 j | j
