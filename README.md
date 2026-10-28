@@ -3,7 +3,7 @@ Unicode Character
 Original | Identical
 --------------- | -------------
 a | a
-c | с
+c | c
 d | d
 e | e
 i | і
