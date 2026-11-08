@@ -6,7 +6,7 @@ a | a
 c | c
 d | d
 e | e
-i | і
+i | i
 j | j
 l | ӏ
 n | n
